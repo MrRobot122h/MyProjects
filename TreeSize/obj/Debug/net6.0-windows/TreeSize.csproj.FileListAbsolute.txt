@@ -1,0 +1,124 @@
+D:\IT C#\IT project 3 WPF\TreeSize\bin\Debug\net6.0-windows\TreeSize.exe
+D:\IT C#\IT project 3 WPF\TreeSize\bin\Debug\net6.0-windows\TreeSize.deps.json
+D:\IT C#\IT project 3 WPF\TreeSize\bin\Debug\net6.0-windows\TreeSize.runtimeconfig.json
+D:\IT C#\IT project 3 WPF\TreeSize\bin\Debug\net6.0-windows\TreeSize.dll
+D:\IT C#\IT project 3 WPF\TreeSize\bin\Debug\net6.0-windows\TreeSize.pdb
+D:\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\TreeSize.csproj.AssemblyReference.cache
+D:\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\App.g.cs
+D:\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\TreeSize_MarkupCompile.cache
+D:\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\TreeSize_MarkupCompile.lref
+D:\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\MainWindow.baml
+D:\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\TreeSize.g.resources
+D:\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\TreeSize.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\TreeSize.AssemblyInfoInputs.cache
+D:\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\TreeSize.AssemblyInfo.cs
+D:\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\TreeSize.csproj.CoreCompileInputs.cache
+D:\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\TreeSize.dll
+D:\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\refint\TreeSize.dll
+D:\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\TreeSize.pdb
+D:\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\TreeSize.genruntimeconfig.cache
+D:\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\ref\TreeSize.dll
+D:\TreeSize\bin\Debug\net6.0-windows\TreeSize.exe
+D:\TreeSize\bin\Debug\net6.0-windows\TreeSize.deps.json
+D:\TreeSize\bin\Debug\net6.0-windows\TreeSize.runtimeconfig.json
+D:\TreeSize\bin\Debug\net6.0-windows\TreeSize.dll
+D:\TreeSize\bin\Debug\net6.0-windows\TreeSize.pdb
+D:\TreeSize\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\TreeSize\obj\Debug\net6.0-windows\App.g.cs
+D:\TreeSize\obj\Debug\net6.0-windows\TreeSize_MarkupCompile.cache
+D:\TreeSize\obj\Debug\net6.0-windows\TreeSize_MarkupCompile.lref
+D:\TreeSize\obj\Debug\net6.0-windows\MainWindow.baml
+D:\TreeSize\obj\Debug\net6.0-windows\TreeSize.g.resources
+D:\TreeSize\obj\Debug\net6.0-windows\TreeSize.GeneratedMSBuildEditorConfig.editorconfig
+D:\TreeSize\obj\Debug\net6.0-windows\TreeSize.AssemblyInfoInputs.cache
+D:\TreeSize\obj\Debug\net6.0-windows\TreeSize.AssemblyInfo.cs
+D:\TreeSize\obj\Debug\net6.0-windows\TreeSize.csproj.CoreCompileInputs.cache
+D:\TreeSize\obj\Debug\net6.0-windows\TreeSize.dll
+D:\TreeSize\obj\Debug\net6.0-windows\refint\TreeSize.dll
+D:\TreeSize\obj\Debug\net6.0-windows\TreeSize.pdb
+D:\TreeSize\obj\Debug\net6.0-windows\TreeSize.genruntimeconfig.cache
+D:\TreeSize\obj\Debug\net6.0-windows\ref\TreeSize.dll
+F:\TreeSize\bin\Debug\net6.0-windows\TreeSize.exe
+F:\TreeSize\bin\Debug\net6.0-windows\TreeSize.deps.json
+F:\TreeSize\bin\Debug\net6.0-windows\TreeSize.runtimeconfig.json
+F:\TreeSize\bin\Debug\net6.0-windows\TreeSize.dll
+F:\TreeSize\bin\Debug\net6.0-windows\TreeSize.pdb
+F:\TreeSize\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\TreeSize\obj\Debug\net6.0-windows\App.g.cs
+F:\TreeSize\obj\Debug\net6.0-windows\TreeSize_MarkupCompile.cache
+F:\TreeSize\obj\Debug\net6.0-windows\TreeSize_MarkupCompile.lref
+F:\TreeSize\obj\Debug\net6.0-windows\MainWindow.baml
+F:\TreeSize\obj\Debug\net6.0-windows\TreeSize.g.resources
+F:\TreeSize\obj\Debug\net6.0-windows\TreeSize.GeneratedMSBuildEditorConfig.editorconfig
+F:\TreeSize\obj\Debug\net6.0-windows\TreeSize.AssemblyInfoInputs.cache
+F:\TreeSize\obj\Debug\net6.0-windows\TreeSize.AssemblyInfo.cs
+F:\TreeSize\obj\Debug\net6.0-windows\TreeSize.csproj.CoreCompileInputs.cache
+F:\TreeSize\obj\Debug\net6.0-windows\TreeSize.dll
+F:\TreeSize\obj\Debug\net6.0-windows\refint\TreeSize.dll
+F:\TreeSize\obj\Debug\net6.0-windows\TreeSize.pdb
+F:\TreeSize\obj\Debug\net6.0-windows\TreeSize.genruntimeconfig.cache
+F:\TreeSize\obj\Debug\net6.0-windows\ref\TreeSize.dll
+F:\TreeSize\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\TreeSize\bin\Debug\net6.0-windows\TreeSize.exe
+E:\TreeSize\bin\Debug\net6.0-windows\TreeSize.deps.json
+E:\TreeSize\bin\Debug\net6.0-windows\TreeSize.runtimeconfig.json
+E:\TreeSize\bin\Debug\net6.0-windows\TreeSize.dll
+E:\TreeSize\bin\Debug\net6.0-windows\TreeSize.pdb
+E:\TreeSize\obj\Debug\net6.0-windows\TreeSize.csproj.AssemblyReference.cache
+E:\TreeSize\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\TreeSize\obj\Debug\net6.0-windows\App.g.cs
+E:\TreeSize\obj\Debug\net6.0-windows\TreeSize_MarkupCompile.cache
+E:\TreeSize\obj\Debug\net6.0-windows\TreeSize_MarkupCompile.lref
+E:\TreeSize\obj\Debug\net6.0-windows\MainWindow.baml
+E:\TreeSize\obj\Debug\net6.0-windows\TreeSize.g.resources
+E:\TreeSize\obj\Debug\net6.0-windows\TreeSize.GeneratedMSBuildEditorConfig.editorconfig
+E:\TreeSize\obj\Debug\net6.0-windows\TreeSize.AssemblyInfoInputs.cache
+E:\TreeSize\obj\Debug\net6.0-windows\TreeSize.AssemblyInfo.cs
+E:\TreeSize\obj\Debug\net6.0-windows\TreeSize.csproj.CoreCompileInputs.cache
+E:\TreeSize\obj\Debug\net6.0-windows\TreeSize.dll
+E:\TreeSize\obj\Debug\net6.0-windows\refint\TreeSize.dll
+E:\TreeSize\obj\Debug\net6.0-windows\TreeSize.pdb
+E:\TreeSize\obj\Debug\net6.0-windows\TreeSize.genruntimeconfig.cache
+E:\TreeSize\obj\Debug\net6.0-windows\ref\TreeSize.dll
+D:\IT\IT C#\IT project 3 WPF\TreeSize\bin\Debug\net6.0-windows\TreeSize.exe
+D:\IT\IT C#\IT project 3 WPF\TreeSize\bin\Debug\net6.0-windows\TreeSize.deps.json
+D:\IT\IT C#\IT project 3 WPF\TreeSize\bin\Debug\net6.0-windows\TreeSize.runtimeconfig.json
+D:\IT\IT C#\IT project 3 WPF\TreeSize\bin\Debug\net6.0-windows\TreeSize.dll
+D:\IT\IT C#\IT project 3 WPF\TreeSize\bin\Debug\net6.0-windows\TreeSize.pdb
+D:\IT\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\IT\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\App.g.cs
+D:\IT\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\TreeSize_MarkupCompile.cache
+D:\IT\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\TreeSize_MarkupCompile.lref
+D:\IT\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\MainWindow.baml
+D:\IT\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\TreeSize.g.resources
+D:\IT\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\TreeSize.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\TreeSize.AssemblyInfoInputs.cache
+D:\IT\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\TreeSize.AssemblyInfo.cs
+D:\IT\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\TreeSize.csproj.CoreCompileInputs.cache
+D:\IT\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\TreeSize.dll
+D:\IT\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\refint\TreeSize.dll
+D:\IT\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\TreeSize.pdb
+D:\IT\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\TreeSize.genruntimeconfig.cache
+D:\IT\IT C#\IT project 3 WPF\TreeSize\obj\Debug\net6.0-windows\ref\TreeSize.dll
+D:\IT\Git\MyProjects\TreeSize\bin\Debug\net6.0-windows\TreeSize.exe
+D:\IT\Git\MyProjects\TreeSize\bin\Debug\net6.0-windows\TreeSize.deps.json
+D:\IT\Git\MyProjects\TreeSize\bin\Debug\net6.0-windows\TreeSize.runtimeconfig.json
+D:\IT\Git\MyProjects\TreeSize\bin\Debug\net6.0-windows\TreeSize.dll
+D:\IT\Git\MyProjects\TreeSize\bin\Debug\net6.0-windows\TreeSize.pdb
+D:\IT\Git\MyProjects\TreeSize\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\IT\Git\MyProjects\TreeSize\obj\Debug\net6.0-windows\App.g.cs
+D:\IT\Git\MyProjects\TreeSize\obj\Debug\net6.0-windows\TreeSize_MarkupCompile.cache
+D:\IT\Git\MyProjects\TreeSize\obj\Debug\net6.0-windows\TreeSize_MarkupCompile.lref
+D:\IT\Git\MyProjects\TreeSize\obj\Debug\net6.0-windows\MainWindow.baml
+D:\IT\Git\MyProjects\TreeSize\obj\Debug\net6.0-windows\TreeSize.g.resources
+D:\IT\Git\MyProjects\TreeSize\obj\Debug\net6.0-windows\TreeSize.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Git\MyProjects\TreeSize\obj\Debug\net6.0-windows\TreeSize.AssemblyInfoInputs.cache
+D:\IT\Git\MyProjects\TreeSize\obj\Debug\net6.0-windows\TreeSize.AssemblyInfo.cs
+D:\IT\Git\MyProjects\TreeSize\obj\Debug\net6.0-windows\TreeSize.csproj.CoreCompileInputs.cache
+D:\IT\Git\MyProjects\TreeSize\obj\Debug\net6.0-windows\TreeSize.sourcelink.json
+D:\IT\Git\MyProjects\TreeSize\obj\Debug\net6.0-windows\TreeSize.dll
+D:\IT\Git\MyProjects\TreeSize\obj\Debug\net6.0-windows\refint\TreeSize.dll
+D:\IT\Git\MyProjects\TreeSize\obj\Debug\net6.0-windows\TreeSize.pdb
+D:\IT\Git\MyProjects\TreeSize\obj\Debug\net6.0-windows\TreeSize.genruntimeconfig.cache
+D:\IT\Git\MyProjects\TreeSize\obj\Debug\net6.0-windows\ref\TreeSize.dll

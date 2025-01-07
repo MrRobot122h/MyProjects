@@ -1,0 +1,5 @@
+E:\TreeSize.exe
+E:\TreeSize.dll
+E:\TreeSize.deps.json
+E:\TreeSize.runtimeconfig.json
+E:\TreeSize.pdb
