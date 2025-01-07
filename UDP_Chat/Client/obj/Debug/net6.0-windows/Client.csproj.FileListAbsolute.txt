@@ -1,0 +1,118 @@
+C:\Users\doski\Desktop\ClientRebuild\Client\obj\Debug\net6.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\doski\Desktop\ClientRebuild\Client\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\doski\Desktop\ClientRebuild\Client\obj\Debug\net6.0-windows\UI.g.cs
+C:\Users\doski\Desktop\ClientRebuild\Client\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\doski\Desktop\ClientRebuild\Client\obj\Debug\net6.0-windows\Client_MarkupCompile.cache
+C:\Users\doski\Desktop\ClientRebuild\Client\obj\Debug\net6.0-windows\Client_MarkupCompile.lref
+C:\Users\doski\Desktop\ClientRebuild\Client\bin\Debug\net6.0-windows\Client.exe
+C:\Users\doski\Desktop\ClientRebuild\Client\bin\Debug\net6.0-windows\Client.deps.json
+C:\Users\doski\Desktop\ClientRebuild\Client\bin\Debug\net6.0-windows\Client.runtimeconfig.json
+C:\Users\doski\Desktop\ClientRebuild\Client\bin\Debug\net6.0-windows\Client.dll
+C:\Users\doski\Desktop\ClientRebuild\Client\bin\Debug\net6.0-windows\Client.pdb
+C:\Users\doski\Desktop\ClientRebuild\Client\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\doski\Desktop\ClientRebuild\Client\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\doski\Desktop\ClientRebuild\Client\obj\Debug\net6.0-windows\UI.baml
+C:\Users\doski\Desktop\ClientRebuild\Client\obj\Debug\net6.0-windows\Client.g.resources
+C:\Users\doski\Desktop\ClientRebuild\Client\obj\Debug\net6.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doski\Desktop\ClientRebuild\Client\obj\Debug\net6.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\doski\Desktop\ClientRebuild\Client\obj\Debug\net6.0-windows\Client.AssemblyInfo.cs
+C:\Users\doski\Desktop\ClientRebuild\Client\obj\Debug\net6.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\doski\Desktop\ClientRebuild\Client\obj\Debug\net6.0-windows\Client.csproj.Up2Date
+C:\Users\doski\Desktop\ClientRebuild\Client\obj\Debug\net6.0-windows\Client.dll
+C:\Users\doski\Desktop\ClientRebuild\Client\obj\Debug\net6.0-windows\refint\Client.dll
+C:\Users\doski\Desktop\ClientRebuild\Client\obj\Debug\net6.0-windows\Client.pdb
+C:\Users\doski\Desktop\ClientRebuild\Client\obj\Debug\net6.0-windows\Client.genruntimeconfig.cache
+C:\Users\doski\Desktop\ClientRebuild\Client\obj\Debug\net6.0-windows\ref\Client.dll
+C:\Users\doski\Desktop\Client\bin\Debug\net6.0-windows\Client.exe
+C:\Users\doski\Desktop\Client\bin\Debug\net6.0-windows\Client.deps.json
+C:\Users\doski\Desktop\Client\bin\Debug\net6.0-windows\Client.runtimeconfig.json
+C:\Users\doski\Desktop\Client\bin\Debug\net6.0-windows\Client.dll
+C:\Users\doski\Desktop\Client\bin\Debug\net6.0-windows\Client.pdb
+C:\Users\doski\Desktop\Client\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\doski\Desktop\Client\obj\Debug\net6.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\doski\Desktop\Client\obj\Debug\net6.0-windows\Group Windows\CreateGroup.g.cs
+C:\Users\doski\Desktop\Client\obj\Debug\net6.0-windows\Group Windows\DeleteGroup.g.cs
+C:\Users\doski\Desktop\Client\obj\Debug\net6.0-windows\Group Windows\EditGroup.g.cs
+C:\Users\doski\Desktop\Client\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\doski\Desktop\Client\obj\Debug\net6.0-windows\UI.g.cs
+C:\Users\doski\Desktop\Client\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\doski\Desktop\Client\obj\Debug\net6.0-windows\Client_MarkupCompile.cache
+C:\Users\doski\Desktop\Client\obj\Debug\net6.0-windows\Client_MarkupCompile.lref
+C:\Users\doski\Desktop\Client\obj\Debug\net6.0-windows\Group Windows\CreateGroup.baml
+C:\Users\doski\Desktop\Client\obj\Debug\net6.0-windows\Group Windows\DeleteGroup.baml
+C:\Users\doski\Desktop\Client\obj\Debug\net6.0-windows\Group Windows\EditGroup.baml
+C:\Users\doski\Desktop\Client\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\doski\Desktop\Client\obj\Debug\net6.0-windows\UI.baml
+C:\Users\doski\Desktop\Client\obj\Debug\net6.0-windows\Client.g.resources
+C:\Users\doski\Desktop\Client\obj\Debug\net6.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doski\Desktop\Client\obj\Debug\net6.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\doski\Desktop\Client\obj\Debug\net6.0-windows\Client.AssemblyInfo.cs
+C:\Users\doski\Desktop\Client\obj\Debug\net6.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\doski\Desktop\Client\obj\Debug\net6.0-windows\Client.csproj.Up2Date
+C:\Users\doski\Desktop\Client\obj\Debug\net6.0-windows\Client.dll
+C:\Users\doski\Desktop\Client\obj\Debug\net6.0-windows\refint\Client.dll
+C:\Users\doski\Desktop\Client\obj\Debug\net6.0-windows\Client.pdb
+C:\Users\doski\Desktop\Client\obj\Debug\net6.0-windows\Client.genruntimeconfig.cache
+C:\Users\doski\Desktop\Client\obj\Debug\net6.0-windows\ref\Client.dll
+C:\Users\doski\Desktop\BackUp1\Client\bin\Debug\net6.0-windows\Client.exe
+C:\Users\doski\Desktop\BackUp1\Client\bin\Debug\net6.0-windows\Client.deps.json
+C:\Users\doski\Desktop\BackUp1\Client\bin\Debug\net6.0-windows\Client.runtimeconfig.json
+C:\Users\doski\Desktop\BackUp1\Client\bin\Debug\net6.0-windows\Client.dll
+C:\Users\doski\Desktop\BackUp1\Client\bin\Debug\net6.0-windows\Client.pdb
+C:\Users\doski\Desktop\BackUp1\Client\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\doski\Desktop\BackUp1\Client\obj\Debug\net6.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\doski\Desktop\BackUp1\Client\obj\Debug\net6.0-windows\Group Windows\CreateGroup.g.cs
+C:\Users\doski\Desktop\BackUp1\Client\obj\Debug\net6.0-windows\Group Windows\DeleteGroup.g.cs
+C:\Users\doski\Desktop\BackUp1\Client\obj\Debug\net6.0-windows\Group Windows\EditGroup.g.cs
+C:\Users\doski\Desktop\BackUp1\Client\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\doski\Desktop\BackUp1\Client\obj\Debug\net6.0-windows\UI.g.cs
+C:\Users\doski\Desktop\BackUp1\Client\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\doski\Desktop\BackUp1\Client\obj\Debug\net6.0-windows\Client_MarkupCompile.cache
+C:\Users\doski\Desktop\BackUp1\Client\obj\Debug\net6.0-windows\Client_MarkupCompile.lref
+C:\Users\doski\Desktop\BackUp1\Client\obj\Debug\net6.0-windows\Group Windows\CreateGroup.baml
+C:\Users\doski\Desktop\BackUp1\Client\obj\Debug\net6.0-windows\Group Windows\DeleteGroup.baml
+C:\Users\doski\Desktop\BackUp1\Client\obj\Debug\net6.0-windows\Group Windows\EditGroup.baml
+C:\Users\doski\Desktop\BackUp1\Client\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\doski\Desktop\BackUp1\Client\obj\Debug\net6.0-windows\UI.baml
+C:\Users\doski\Desktop\BackUp1\Client\obj\Debug\net6.0-windows\Client.g.resources
+C:\Users\doski\Desktop\BackUp1\Client\obj\Debug\net6.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doski\Desktop\BackUp1\Client\obj\Debug\net6.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\doski\Desktop\BackUp1\Client\obj\Debug\net6.0-windows\Client.AssemblyInfo.cs
+C:\Users\doski\Desktop\BackUp1\Client\obj\Debug\net6.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\doski\Desktop\BackUp1\Client\obj\Debug\net6.0-windows\Client.csproj.Up2Date
+C:\Users\doski\Desktop\BackUp1\Client\obj\Debug\net6.0-windows\Client.dll
+C:\Users\doski\Desktop\BackUp1\Client\obj\Debug\net6.0-windows\refint\Client.dll
+C:\Users\doski\Desktop\BackUp1\Client\obj\Debug\net6.0-windows\Client.pdb
+C:\Users\doski\Desktop\BackUp1\Client\obj\Debug\net6.0-windows\Client.genruntimeconfig.cache
+C:\Users\doski\Desktop\BackUp1\Client\obj\Debug\net6.0-windows\ref\Client.dll
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\bin\Debug\net6.0-windows\Client.exe
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\bin\Debug\net6.0-windows\Client.deps.json
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\bin\Debug\net6.0-windows\Client.runtimeconfig.json
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\bin\Debug\net6.0-windows\Client.dll
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\bin\Debug\net6.0-windows\Client.pdb
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\obj\Debug\net6.0-windows\Client.csproj.AssemblyReference.cache
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\obj\Debug\net6.0-windows\Group Windows\CreateGroup.g.cs
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\obj\Debug\net6.0-windows\Group Windows\DeleteGroup.g.cs
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\obj\Debug\net6.0-windows\Group Windows\EditGroup.g.cs
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\obj\Debug\net6.0-windows\UI.g.cs
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\obj\Debug\net6.0-windows\App.g.cs
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\obj\Debug\net6.0-windows\Client_MarkupCompile.cache
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\obj\Debug\net6.0-windows\Client_MarkupCompile.lref
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\obj\Debug\net6.0-windows\Group Windows\CreateGroup.baml
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\obj\Debug\net6.0-windows\Group Windows\DeleteGroup.baml
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\obj\Debug\net6.0-windows\Group Windows\EditGroup.baml
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\obj\Debug\net6.0-windows\MainWindow.baml
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\obj\Debug\net6.0-windows\UI.baml
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\obj\Debug\net6.0-windows\Client.g.resources
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\obj\Debug\net6.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\obj\Debug\net6.0-windows\Client.AssemblyInfoInputs.cache
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\obj\Debug\net6.0-windows\Client.AssemblyInfo.cs
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\obj\Debug\net6.0-windows\Client.csproj.CoreCompileInputs.cache
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\obj\Debug\net6.0-windows\Client.csproj.Up2Date
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\obj\Debug\net6.0-windows\Client.dll
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\obj\Debug\net6.0-windows\refint\Client.dll
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\obj\Debug\net6.0-windows\Client.pdb
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\obj\Debug\net6.0-windows\Client.genruntimeconfig.cache
+D:\IT\IT C#\IT project 5 Network Programming\WPF\UDP\UDP_Chat\Client\obj\Debug\net6.0-windows\ref\Client.dll
