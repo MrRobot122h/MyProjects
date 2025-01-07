@@ -1,0 +1,158 @@
+﻿<Window x:Class="SoloOnKeyBoard.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SoloOnKeyBoard"
+        
+        mc:Ignorable="d"
+
+    Title="Solo on KeyBoard 2" Height="490" Width="1000" MinHeight="450" MinWidth="1000" Background="Blue" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition>
+            </RowDefinition>
+
+            <RowDefinition>
+            </RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+
+            </Grid.RowDefinitions>
+            <TextBox x:Name="RandomSym1" Grid.Row="1" IsReadOnly="True" Margin="0,20,0,69" Grid.RowSpan="2" FontSize="25"/>
+            <TextBox x:Name="WriteLine1" Grid.Row="2" IsReadOnly="True" Margin="0,10,0,0" FontSize="25"/>
+            <Grid Grid.Row="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Label x:Name="CharsSpeed1" Grid.Column="0" Grid.Row="0" Content="Speed: 0 chars/min" FontSize="20"/>
+                <Label x:Name="FailCount1" Grid.Row="0" Content="Fails: 0" Margin="35,-2,0,2" FontSize="20" Grid.Column="1"/>
+                <Label Content="Difficulty" Grid.Column="4" FontSize="20" HorizontalContentAlignment="Center" />
+                <ComboBox x:Name="DifficultyComboBox1" Grid.Column="4" Grid.Row="1" Margin="42,5,42,5">
+                    <ComboBoxItem>Easy</ComboBoxItem>
+                    <ComboBoxItem>Medium</ComboBoxItem>
+                    <ComboBoxItem>Hard</ComboBoxItem>
+                </ComboBox>
+
+                <Button x:Name="GoToTestButton1" Grid.Column="3" Grid.Row="1" Content="Test"  />
+                <CheckBox x:Name="HideKeyBoardCheckBox1" Grid.Column="2" Grid.Row="0" Content="Hide KeyBoard" Height="20" FontSize="17" Margin="10,9,47,11"/>
+
+
+                <Button x:Name="StartButton1" Content="Start" Grid.Column="0" Grid.Row="1" />
+                <Button x:Name="StopButton1" Content="Reset" Grid.Column="1" Grid.Row="1" />
+
+            </Grid>
+
+        </Grid>
+
+        <Grid Grid.Row="1" x:Name="KeyBoardButtons">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Button Grid.Column ="0" Grid.Row="0">`</Button>
+            <Button Grid.Column="1" Grid.Row="0">1</Button>
+            <Button Grid.Column="2" Grid.Row="0">2</Button>
+            <Button Grid.Column="3" Grid.Row="0">3</Button>
+            <Button Grid.Column="4" Grid.Row="0">4</Button>
+            <Button Grid.Column="5" Grid.Row="0">5</Button>
+            <Button Grid.Column="6" Grid.Row="0">6</Button>
+            <Button Grid.Column="7" Grid.Row="0">7</Button>
+            <Button Grid.Column="8" Grid.Row="0">8</Button>
+            <Button Grid.Column="9" Grid.Row="0">9</Button>
+            <Button Grid.Column="10" Grid.Row="0">0</Button>
+            <Button Grid.Column="11" Grid.Row="0">-</Button>
+            <Button Grid.Column="12" Grid.Row="0">=</Button>
+            <Button Grid.Column="13" Grid.Row="0">Backspace</Button>
+
+
+            <Button Grid.Column ="0" Grid.Row="1">Tab</Button>
+            <Button Grid.Column="1" Grid.Row="1">q</Button>
+            <Button Grid.Column="2" Grid.Row="1">w</Button>
+            <Button Grid.Column="3" Grid.Row="1">e</Button>
+            <Button Grid.Column="4" Grid.Row="1">r</Button>
+            <Button Grid.Column="5" Grid.Row="1">t</Button>
+            <Button Grid.Column="6" Grid.Row="1">y</Button>
+            <Button Grid.Column="7" Grid.Row="1">u</Button>
+            <Button Grid.Column="8" Grid.Row="1">i</Button>
+            <Button Grid.Column="9" Grid.Row="1">o</Button>
+            <Button Grid.Column="10" Grid.Row="1">p</Button>
+            <Button Grid.Column="11" Grid.Row="1">[</Button>
+            <Button Grid.Column="12" Grid.Row="1">]</Button>
+            <Button Grid.Column="13" Grid.Row="1">\</Button>
+
+
+            <Button Grid.Column ="0" Grid.Row="2">Caps Lock</Button>
+            <Button Grid.Column="1" Grid.Row="2">a</Button>
+            <Button Grid.Column="2" Grid.Row="2">s</Button>
+            <Button Grid.Column="3" Grid.Row="2">d</Button>
+            <Button Grid.Column="4" Grid.Row="2">f</Button>
+            <Button Grid.Column="5" Grid.Row="2">g</Button>
+            <Button Grid.Column="6" Grid.Row="2">h</Button>
+            <Button Grid.Column="7" Grid.Row="2">j</Button>
+            <Button Grid.Column="8" Grid.Row="2">k</Button>
+            <Button Grid.Column="9" Grid.Row="2">l</Button>
+            <Button Grid.Column="10" Grid.Row="2">;</Button>
+            <Button Grid.Column="11" Grid.Row="2">'</Button>
+            <Button Grid.Column="12" Grid.ColumnSpan ="13" Grid.Row="2"  >Enter</Button>
+
+            <Button x:Name="ShiftButton" Grid.Column ="0" Grid.ColumnSpan ="2" Grid.Row="3" >Shift</Button>
+            <Button Grid.Column="2" Grid.Row="3">z</Button>
+            <Button Grid.Column="3" Grid.Row="3">x</Button>
+            <Button Grid.Column="4" Grid.Row="3">c</Button>
+            <Button Grid.Column="5" Grid.Row="3">v</Button>
+            <Button Grid.Column="6" Grid.Row="3">b</Button>
+            <Button Grid.Column="7" Grid.Row="3">n</Button>
+            <Button Grid.Column="8" Grid.Row="3">m</Button>
+            <Button Grid.Column="9" Grid.Row="3">,</Button>
+            <Button Grid.Column="10" Grid.Row="3">.</Button>
+            <Button Grid.Column="11" Grid.Row="3">/</Button>
+            <Button Grid.Column="12" Grid.ColumnSpan ="14" Grid.Row="3">Shift</Button>
+
+            <Button Grid.Column ="0" Grid.ColumnSpan ="2"  Grid.Row="4">Ctrl</Button>
+            <Button Grid.Column="2" Grid.Row="4">Win</Button>
+            <Button Grid.Column="3" Grid.Row="4">Alt</Button>
+            <Button Grid.Column="4" Grid.ColumnSpan ="6" Grid.Row="4">Space</Button>
+            <Button Grid.Column="10" Grid.Row="4">Alt</Button>
+            <Button Grid.Column="11" Grid.Row="4">Win</Button>
+            <Button Grid.Column="12" Grid.ColumnSpan ="14" Grid.Row="4">Ctrl</Button>
+        </Grid>
+
+
+    </Grid>
+</Window>

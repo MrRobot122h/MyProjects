@@ -1,0 +1,5 @@
+C:\Users\doski\OneDrive\Рабочий стол\Code\SoloOnKeyBoard.exe
+C:\Users\doski\OneDrive\Рабочий стол\Code\SoloOnKeyBoard.dll
+C:\Users\doski\OneDrive\Рабочий стол\Code\SoloOnKeyBoard.runtimeconfig.json
+C:\Users\doski\OneDrive\Рабочий стол\Code\SoloOnKeyBoard.pdb
+C:\Users\doski\OneDrive\Рабочий стол\Code\SoloOnKeyBoard.deps.json

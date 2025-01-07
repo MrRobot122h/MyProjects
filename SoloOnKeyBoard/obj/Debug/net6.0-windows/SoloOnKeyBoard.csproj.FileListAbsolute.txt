@@ -1,0 +1,47 @@
+C:\Users\doski\OneDrive\Рабочий стол\SoloOnKeyBoard\bin\Debug\net6.0-windows\SoloOnKeyBoard.exe
+C:\Users\doski\OneDrive\Рабочий стол\SoloOnKeyBoard\bin\Debug\net6.0-windows\SoloOnKeyBoard.deps.json
+C:\Users\doski\OneDrive\Рабочий стол\SoloOnKeyBoard\bin\Debug\net6.0-windows\SoloOnKeyBoard.runtimeconfig.json
+C:\Users\doski\OneDrive\Рабочий стол\SoloOnKeyBoard\bin\Debug\net6.0-windows\SoloOnKeyBoard.dll
+C:\Users\doski\OneDrive\Рабочий стол\SoloOnKeyBoard\bin\Debug\net6.0-windows\SoloOnKeyBoard.pdb
+C:\Users\doski\OneDrive\Рабочий стол\SoloOnKeyBoard\obj\Debug\net6.0-windows\SoloOnKeyBoard.csproj.AssemblyReference.cache
+C:\Users\doski\OneDrive\Рабочий стол\SoloOnKeyBoard\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\doski\OneDrive\Рабочий стол\SoloOnKeyBoard\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\doski\OneDrive\Рабочий стол\SoloOnKeyBoard\obj\Debug\net6.0-windows\SoloOnKeyBoard_MarkupCompile.cache
+C:\Users\doski\OneDrive\Рабочий стол\SoloOnKeyBoard\obj\Debug\net6.0-windows\SoloOnKeyBoard_MarkupCompile.lref
+C:\Users\doski\OneDrive\Рабочий стол\SoloOnKeyBoard\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\doski\OneDrive\Рабочий стол\SoloOnKeyBoard\obj\Debug\net6.0-windows\SoloOnKeyBoard.g.resources
+C:\Users\doski\OneDrive\Рабочий стол\SoloOnKeyBoard\obj\Debug\net6.0-windows\SoloOnKeyBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doski\OneDrive\Рабочий стол\SoloOnKeyBoard\obj\Debug\net6.0-windows\SoloOnKeyBoard.AssemblyInfoInputs.cache
+C:\Users\doski\OneDrive\Рабочий стол\SoloOnKeyBoard\obj\Debug\net6.0-windows\SoloOnKeyBoard.AssemblyInfo.cs
+C:\Users\doski\OneDrive\Рабочий стол\SoloOnKeyBoard\obj\Debug\net6.0-windows\SoloOnKeyBoard.csproj.CoreCompileInputs.cache
+C:\Users\doski\OneDrive\Рабочий стол\SoloOnKeyBoard\obj\Debug\net6.0-windows\SoloOnKeyBoard.dll
+C:\Users\doski\OneDrive\Рабочий стол\SoloOnKeyBoard\obj\Debug\net6.0-windows\refint\SoloOnKeyBoard.dll
+C:\Users\doski\OneDrive\Рабочий стол\SoloOnKeyBoard\obj\Debug\net6.0-windows\SoloOnKeyBoard.pdb
+C:\Users\doski\OneDrive\Рабочий стол\SoloOnKeyBoard\obj\Debug\net6.0-windows\SoloOnKeyBoard.genruntimeconfig.cache
+C:\Users\doski\OneDrive\Рабочий стол\SoloOnKeyBoard\obj\Debug\net6.0-windows\ref\SoloOnKeyBoard.dll
+C:\Users\doski\OneDrive\Рабочий стол\SoloOnKeyBoard\obj\Debug\net6.0-windows\Test1.g.cs
+C:\Users\doski\OneDrive\Рабочий стол\SoloOnKeyBoard\obj\Debug\net6.0-windows\Test1.baml
+D:\IT C#\IT project 3 WPF\SoloOnKeyBoard\bin\Debug\net6.0-windows\SoloOnKeyBoard.exe
+D:\IT C#\IT project 3 WPF\SoloOnKeyBoard\bin\Debug\net6.0-windows\SoloOnKeyBoard.deps.json
+D:\IT C#\IT project 3 WPF\SoloOnKeyBoard\bin\Debug\net6.0-windows\SoloOnKeyBoard.runtimeconfig.json
+D:\IT C#\IT project 3 WPF\SoloOnKeyBoard\bin\Debug\net6.0-windows\SoloOnKeyBoard.dll
+D:\IT C#\IT project 3 WPF\SoloOnKeyBoard\bin\Debug\net6.0-windows\SoloOnKeyBoard.pdb
+D:\IT C#\IT project 3 WPF\SoloOnKeyBoard\obj\Debug\net6.0-windows\SoloOnKeyBoard.csproj.AssemblyReference.cache
+D:\IT C#\IT project 3 WPF\SoloOnKeyBoard\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\IT C#\IT project 3 WPF\SoloOnKeyBoard\obj\Debug\net6.0-windows\Test1.g.cs
+D:\IT C#\IT project 3 WPF\SoloOnKeyBoard\obj\Debug\net6.0-windows\App.g.cs
+D:\IT C#\IT project 3 WPF\SoloOnKeyBoard\obj\Debug\net6.0-windows\SoloOnKeyBoard_MarkupCompile.cache
+D:\IT C#\IT project 3 WPF\SoloOnKeyBoard\obj\Debug\net6.0-windows\SoloOnKeyBoard_MarkupCompile.lref
+D:\IT C#\IT project 3 WPF\SoloOnKeyBoard\obj\Debug\net6.0-windows\MainWindow.baml
+D:\IT C#\IT project 3 WPF\SoloOnKeyBoard\obj\Debug\net6.0-windows\Test1.baml
+D:\IT C#\IT project 3 WPF\SoloOnKeyBoard\obj\Debug\net6.0-windows\SoloOnKeyBoard.g.resources
+D:\IT C#\IT project 3 WPF\SoloOnKeyBoard\obj\Debug\net6.0-windows\SoloOnKeyBoard.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT C#\IT project 3 WPF\SoloOnKeyBoard\obj\Debug\net6.0-windows\SoloOnKeyBoard.AssemblyInfoInputs.cache
+D:\IT C#\IT project 3 WPF\SoloOnKeyBoard\obj\Debug\net6.0-windows\SoloOnKeyBoard.AssemblyInfo.cs
+D:\IT C#\IT project 3 WPF\SoloOnKeyBoard\obj\Debug\net6.0-windows\SoloOnKeyBoard.csproj.CoreCompileInputs.cache
+D:\IT C#\IT project 3 WPF\SoloOnKeyBoard\obj\Debug\net6.0-windows\SoloOnKeyBoard.dll
+D:\IT C#\IT project 3 WPF\SoloOnKeyBoard\obj\Debug\net6.0-windows\refint\SoloOnKeyBoard.dll
+D:\IT C#\IT project 3 WPF\SoloOnKeyBoard\obj\Debug\net6.0-windows\SoloOnKeyBoard.pdb
+D:\IT C#\IT project 3 WPF\SoloOnKeyBoard\obj\Debug\net6.0-windows\SoloOnKeyBoard.genruntimeconfig.cache
+D:\IT C#\IT project 3 WPF\SoloOnKeyBoard\obj\Debug\net6.0-windows\ref\SoloOnKeyBoard.dll
+D:\IT C#\IT project 3 WPF\SoloOnKeyBoard\obj\Debug\net6.0-windows\SoloOnKeyBoard.csproj.Fody.CopyLocal.cache
